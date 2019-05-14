@@ -1,0 +1,14 @@
+C:\Users\ТурмаханД\source\repos\SecurityApp\SecurityApp.Services\bin\Debug\SecurityApp.Services.dll
+C:\Users\ТурмаханД\source\repos\SecurityApp\SecurityApp.Services\bin\Debug\SecurityApp.Services.pdb
+C:\Users\ТурмаханД\source\repos\SecurityApp\SecurityApp.Services\bin\Debug\BCrypt.Net.dll
+C:\Users\ТурмаханД\source\repos\SecurityApp\SecurityApp.Services\bin\Debug\BCrypt.Net.pdb
+C:\Users\ТурмаханД\source\repos\SecurityApp\SecurityApp.Services\bin\Debug\BCrypt.Net.xml
+C:\Users\ТурмаханД\source\repos\SecurityApp\SecurityApp.Services\obj\Debug\SecurityApp.Services.csprojAssemblyReference.cache
+C:\Users\ТурмаханД\source\repos\SecurityApp\SecurityApp.Services\obj\Debug\SecurityApp.Services.csproj.CoreCompileInputs.cache
+C:\Users\ТурмаханД\source\repos\SecurityApp\SecurityApp.Services\obj\Debug\SecurityApp.Services.csproj.CopyComplete
+C:\Users\ТурмаханД\source\repos\SecurityApp\SecurityApp.Services\obj\Debug\SecurityApp.Services.dll
+C:\Users\ТурмаханД\source\repos\SecurityApp\SecurityApp.Services\obj\Debug\SecurityApp.Services.pdb
+C:\Users\ТурмаханД\source\repos\SecurityApp\SecurityApp.Services\bin\Debug\Facebook.dll
+C:\Users\ТурмаханД\source\repos\SecurityApp\SecurityApp.Services\bin\Debug\Facebook.xml
+C:\Users\ТурмаханД\source\repos\SecurityApp\SecurityApp.Services\bin\Debug\Leaf.xNet.dll
+C:\Users\ТурмаханД\source\repos\SecurityApp\SecurityApp.Services\bin\Debug\Leaf.xNet.xml
